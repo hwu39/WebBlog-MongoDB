@@ -12,4 +12,4 @@ To install all the corresponding npm packages, please run the above command in c
 > Copy the Connection String and replace it with "mongodb://localhost:27017/blogDB", and replace <password> and database name with your own.
 
 # Update (05/14/2019)
-The web application is fully deployed on heroku and allows users to write blogs to be stored in the MongoDB Atlas cloud cluster. The url to the web application is https://glacial-mountain-71776.herokuapp.com/
+The web application is fully deployed on heroku and allows users to write blogs to be stored in the MongoDB Atlas cloud cluster. The url to the web application is https://safe-lowlands-57140.herokuapp.com/
