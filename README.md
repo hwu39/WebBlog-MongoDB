@@ -10,3 +10,6 @@ To install all the corresponding npm packages, please run the above command in c
 > To use your own MongoDB server, please head to cloud.mongodb.com. 
 > To connect to the MongoDB Cloud server, under Overview, choose the cluster you want to use and click Connect. Then, select Connect Your Application and Node.js for our server. 
 > Copy the Connection String and replace it with "mongodb://localhost:27017/blogDB", and replace <password> and database name with your own.
+
+# Update (05/14/2019)
+The web application is fully deployed on heroku and allows users to write blogs to be stored in the MongoDB Atlas cloud cluster. The url to the web application is https://glacial-mountain-71776.herokuapp.com/
